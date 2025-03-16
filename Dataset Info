@@ -1,0 +1,30 @@
+📌 Dataset Information - Manufacturing Data Quality Insights
+
+This dataset is used for analyzing machine performance KPIs and data quality issues in a manufacturing environment. It contains records of machine downtime, repair costs, utilization, and product quality, helping identify missing or inconsistent data for corrective actions.
+
+📂 Dataset Structure
+
+🔹 Machine ID – Unique identifier for each machine.
+
+🔹 Supplier Name – Supplier providing the machine.
+
+🔹 Location – The plant or facility where the machine operates.
+
+🔹 Downtime (hrs) – Total downtime recorded for each machine.
+
+🔹 Repair Cost ($) – Cost incurred for machine repairs.
+
+🔹 Utilization (%) – Machine utilization efficiency percentage.
+
+🔹 Product Quality Score – Score based on the quality of the produced output.
+
+🔹 Missing Data Flags – Flags indicating missing or inconsistent data for downtime, repair cost, utilization, and product quality.
+
+📁 File Information
+
+📌 V4 KPI List.xlsx – Contains raw data for machine performance and quality issues.
+
+📌 Power BI Report (.pbix) – The interactive Power BI dashboard built from this dataset.
+📌 Screenshots (PNG) – Images of the completed dashboards.
+
+🔍 This dataset enables manufacturing units to assess machine reliability, detect data gaps, and optimize maintenance strategies.
